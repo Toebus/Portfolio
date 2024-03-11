@@ -1,0 +1,14 @@
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.exe
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.deps.json
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.runtimeconfig.json
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.dll
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\bin\Debug\net7.0\ShapeCalculator.pdb
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.dll
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\refint\ShapeCalculator.dll
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.pdb
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ShapeCalculator.genruntimeconfig.cache
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\ShapeCalculator\obj\Debug\net7.0\ref\ShapeCalculator.dll
