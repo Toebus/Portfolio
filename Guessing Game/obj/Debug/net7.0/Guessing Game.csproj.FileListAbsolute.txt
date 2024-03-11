@@ -1,0 +1,14 @@
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\bin\Debug\net7.0\Guessing Game.exe
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\bin\Debug\net7.0\Guessing Game.deps.json
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\bin\Debug\net7.0\Guessing Game.runtimeconfig.json
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\bin\Debug\net7.0\Guessing Game.dll
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\bin\Debug\net7.0\Guessing Game.pdb
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.AssemblyInfoInputs.cache
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.AssemblyInfo.cs
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.dll
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\refint\Guessing Game.dll
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.pdb
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\Guessing Game.genruntimeconfig.cache
+C:\Users\t-gul\Desktop\GithubPorfolio\Portfolio\Guessing Game\obj\Debug\net7.0\ref\Guessing Game.dll
